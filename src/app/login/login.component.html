@@ -1,0 +1,15 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()" class="logForm">
+
+    <mat-form-field class="catch">
+      <mat-label class="catch">Username</mat-label>
+      <input matInput formControlName="username">
+    </mat-form-field>
+  
+  <mat-form-field class="catch">
+      <mat-label class="catch">Password</mat-label>
+      <input matInput formControlName="password" type="password">
+    </mat-form-field>
+
+    <button mat-flat-button type="submit" class="but">Login</button>
+
+  </form>

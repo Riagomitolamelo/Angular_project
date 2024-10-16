@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Leonardo",
+      "password": "test123"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "nome": "Leonardo",
+      "cognome": "Micoli",
+      "email": "lmicoli@example.com",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "nome": "Franco",
+      "cognome": "Di Cesare",
+      "email": "fDicesa@example.com",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "nome": "Mario",
+      "cognome": "Palladino",
+      "email": "palladio@example.com",
+      "userId": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+.full-width-table {
+    width: 100%;
+  }
+  
+  .mat-elevation-z8{
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 80%;
+  }
+
+  .addForm {
+    margin: 0 auto;
+    max-width: 80%;
+  }
+
+  .filter {
+    margin-bottom: 16px;
+  }
+
+  .example-label {
+    display: table-cell;
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 120px;
+  }
+
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+
+  .example-full-width {
+    width: 100%;
+  }
+
+  .label {
+    color:white;
+  }
+
+  .prova {
+    color: black;
+  }
+
+  .field {
+    padding: 20px;
+  }
